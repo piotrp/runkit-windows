@@ -15,3 +15,5 @@ Downloads:
 * [php_runkit-1.0.4-5e179e978a-5.3-vc9-nts.dll](php_runkit-1.0.4-5e179e978a-5.3-vc9-nts.dll) - PHP 5.3.27 headers, VC9, NTS
 * [php_runkit-1.0.4-5e179e978a-5.4-vc9.dll](php_runkit-1.0.4-5e179e978a-5.4-vc9.dll) - PHP 5.4.21 headers, VC9, TS
 * [php_runkit-1.0.4-5e179e978a-5.4-vc9-nts.dll](php_runkit-1.0.4-5e179e978a-5.4-vc9-nts.dll) - PHP 5.4.21 headers, VC9, NTS
+* [php_runkit-1.0.4-5e179e978a-5.5-vc11.dll](php_runkit-1.0.4-5e179e978a-5.5-vc11.dll) - PHP 5.5 headers, VC11, TS
+* [php_runkit-1.0.4-5e179e978a-5.5-vc11-nts.dll](php_runkit-1.0.4-5e179e978a-5.5-vc11-nts.dll) - PHP 5.5 headers, VC11, NTS
