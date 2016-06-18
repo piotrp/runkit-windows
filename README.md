@@ -10,6 +10,7 @@ runkit 1.0.4 built from sources at [zenovich/runkit@1.0.4](https://github.com/ze
 
 Downloads
 ---------
+#### Caution　This dll is 32bit(X86) version
 * [php_runkit-1.0.4-5.3-vc9.dll](php_runkit-1.0.4-5.3-vc9.dll) - PHP 5.3.29 headers, VC9, TS
 * [php_runkit-1.0.4-5.3-vc9-nts.dll](php_runkit-1.0.4-5.3-vc9-nts.dll) - PHP 5.3.29 headers, VC9, NTS
 * [php_runkit-1.0.4-5.4-vc9.dll](php_runkit-1.0.4-5.4-vc9.dll) - PHP 5.4.45 headers, VC9, TS
